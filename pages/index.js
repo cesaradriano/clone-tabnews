@@ -2,7 +2,7 @@ function Home (){
 
     return(
         <h1>
-            Agora eu fiz a modificação correta.
+            Você sabia que eu te amo?? Estou com saudades!!
         </h1>
     )
 
